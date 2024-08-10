@@ -1,3 +1,4 @@
 # demo
-this is my first git repo
-author- shreya dey
+This is my first git repo.
+<br>
+Author- Shreya Dey
